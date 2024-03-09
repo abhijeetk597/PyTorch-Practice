@@ -64,4 +64,4 @@ print(f"[INFO] Total training time: {end_time-start_time:.3f} seconds")
 # Save the model to file
 utils.save_model(model=model,
                  target_dir="models",
-                 model_name="05_going_modular_script_mode_tinyvgg_model.pth")
+                 model_name="tinyvgg_model.pth")
