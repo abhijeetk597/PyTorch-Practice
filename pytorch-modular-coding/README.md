@@ -1,5 +1,6 @@
 # Modular coding directory structure
 
+```
 modular_coding/
 ├── scripts/
 │   ├── data_setup.py
@@ -22,3 +23,4 @@ modular_coding/
             ├── pizza/
             ├── steak/
             └── sushi/
+```
